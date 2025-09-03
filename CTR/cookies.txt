@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.citethemrightonline.com	TRUE	/	FALSE	1999999999	JSESSIONID	2A94EF2922512CC37021D30FAC4AE786
+www.citethemrightonline.com	TRUE	/	FALSE	1999999999	seleLang	en
+www.citethemrightonline.com	TRUE	/	FALSE	1999999999	AWSALBTG	bB5hbXp1JTBsFSzAJ4HQyw0fcKomOBCfs4wBr6R00TM6oWNXWoDdHfENxkupOgs/EzeS4DQCC2ov3NnBSo7qTxRU5nTg3u3XhrNMQevYCp0+NgMEpfwc/HTCGCYaR4s9eD1QIBvgPyz6Lgky0loKYD5bSv9jWy2EmTKmvP8uDblu
+www.citethemrightonline.com	TRUE	/	FALSE	1999999999	AWSALBTGCORS	bB5hbXp1JTBsFSzAJ4HQyw0fcKomOBCfs4wBr6R00TM6oWNXWoDdHfENxkupOgs/EzeS4DQCC2ov3NnBSo7qTxRU5nTg3u3XhrNMQevYCp0+NgMEpfwc/HTCGCYaR4s9eD1QIBvgPyz6Lgky0loKYD5bSv9jWy2EmTKmvP8uDblu
+www.citethemrightonline.com	TRUE	/	FALSE	1999999999	AWSALB	lZjc5pmCPKS/CAYyMQYXv1CNLf0C0MYZ4fQFkvF2r+GOe+k4wep2uxbu8q65u/baNuFZx+9tNiTiruEM+n5oGpXLZhq/PjE2ggJ45kEi1YGVyHYFplS0iadM0hpw
+www.citethemrightonline.com	TRUE	/	FALSE	1999999999	AWSALBCORS	lZjc5pmCPKS/CAYyMQYXv1CNLf0C0MYZ4fQFkvF2r+GOe+k4wep2uxbu8q65u/baNuFZx+9tNiTiruEM+n5oGpXLZhq/PjE2ggJ45kEi1YGVyHYFplS0iadM0hpw
+www.citethemrightonline.com	TRUE	/	FALSE	1999999999	SameSite	None
+
